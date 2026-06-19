@@ -8,6 +8,7 @@ title: My First Web App
 This is a paragraph.
 
 ## YouTube Video
+#worldcup japan🗾 vs Netherlands🌷
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/3jIMk43CECY?si=B4QOX81KUW1nT6u0"
@@ -18,6 +19,8 @@ referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen>
 </iframe>
 
+<br>
+
 ## Hachioji Station
 
-![Hachioji station](hachioji.jpg)
+<img src="images (1).jpg" alt="Hachioji station" width="400">
