@@ -1,27 +1,21 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Web App</title>
+    <link href='style.css' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+    <p>This is a paragraph.</p>
 
-## Emphasis
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-~~Strikethrough~~
+    <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/STeofHExMrc"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
 
-## Blockquotes
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs...
-
-## Lists
-- Create a list by starting a line with '+', '-', or '*'
-- Sub-lists are made by indenting 2 spaces
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-
-## Code
-Inline `code`
+    <img src="img_girl.jpeg" alt="Girl in a jacket" width="500" height="600">
+  </body>
+</html>
